@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bastos-01.bastos-01)
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bastos-01.bastos-01) -->
 
-![Views](https://views.whatilearened.today/views/github/bastos-01/views.svg)
+<!-- ![Views](https://views.whatilearened.today/views/github/bastos-01/views.svg) -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
 
