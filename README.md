@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- ![Views](https://views.whatilearened.today/views/github/bastos-01/views.svg) -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastos-01&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
 
