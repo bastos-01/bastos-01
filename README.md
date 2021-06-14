@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=bastos-01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<img height="189" style="margin-left:5px;" src="https://github-profile-trophy.vercel.app/?username=bastos-01&theme=dracula&margin-w=5&margin-h=5&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" />
+
